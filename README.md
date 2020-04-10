@@ -1,6 +1,6 @@
 # twtk-interactive-map
 
-Total War THREE KINGDOMS Interactive Map.
+Total War THREE KINGDOMS Interactive Map. Made by two wild and crazy guys. 
 
 **Open an issue if you have suggestions/feature requests or problems!**
 
